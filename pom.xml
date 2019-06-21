@@ -265,14 +265,6 @@
     <url>https://eknet.org/gitr/?r=eike/swing-tasks.git</url>
   </scm>
 
-  <repositories>
-    <repository>
-      <id>maven.raffael.ch</id>
-      <name>maven.raffael.ch</name>
-      <url>http://maven.raffael.ch</url>
-    </repository>
-  </repositories>
-
   <distributionManagement>
     <site>
       <id>eknet.org</id>
