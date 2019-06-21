@@ -267,10 +267,6 @@
 
   <repositories>
     <repository>
-      <id>eknet-maven2</id>
-      <url>https://eknet.org/maven2</url>
-    </repository>
-    <repository>
       <id>maven.raffael.ch</id>
       <name>maven.raffael.ch</name>
       <url>http://maven.raffael.ch</url>
